@@ -67,5 +67,5 @@ Eklemlerdeki sürtünmeyi azaltmak ve eksenel yükleri karşılamak için yazıc
 
 ## 🚀 Gelecek Hedefleri
 - [ ] Ters kinematik (Inverse Kinematics) kodunun tamamlanması.
-- [ ] Uç işleyici (Gripper) tasarımı.
+- [ ] Uç işleyici (Gripper) tasarımları.
 - [ ] Gövde parçalarının kaplaması ve merkez kolonun tamamlanması.
