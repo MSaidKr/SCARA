@@ -2,14 +2,11 @@
 
 # 28 BYJ-48 step motorları kullanılarak yapılan el yapımı SCARA prototipidir.(WIP)
 
-> **Durum:** 🟡 Geliştirme Aşamasında (Work in Progress)
-> **Kategori:** Robotik / Mekanik Tasarım
-
 Bu proje, endüstriyel SCARA (Selective Compliance Assembly Robot Arm) robotlarının çalışma prensiplerini analiz etmek ve düşük maliyetli bir prototip geliştirmek amacıyla başlatılmıştır. Proje, özellikle **güç aktarım mekanizmaları** ve **kinematik analiz** üzerine yoğunlaşmaktadır.
 
 ---
 
-## ⚙️ Mekanik Tasarım Detayları
+## Mekanik Tasarım Detayları
 
 Robotun mekanik gövdesi, hassasiyet ve dayanıklılık gözetilerek tasarlanmıştır. Güç aktarımı için özel dişli profilleri ve sürtünmeyi minimize etmek için rulmanlı yataklama sistemleri kullanılmıştır.
 
@@ -60,12 +57,12 @@ Eklemlerdeki sürtünmeyi azaltmak ve eksenel yükleri karşılamak için yazıc
 
 ---
 
-## 🛠️ Kullanılan Donanımlar
+## Kullanılan Donanımlar
 * **Motorlar:** [28 BYJ-48]
 * **Sürücüler:** [ULN2003]
 * **Kontrolcü:** [Arduino UNO]
 
-## 🚀 Gelecek Hedefleri
+## Gelecek Hedefleri
 - [ ] Ters kinematik (Inverse Kinematics) kodunun tamamlanması.
 - [ ] Uç işleyici (Gripper) tasarımları.
 - [ ] Gövde parçalarının kaplaması ve merkez kolonun tamamlanması.
